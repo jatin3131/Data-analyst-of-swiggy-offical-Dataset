@@ -5,6 +5,11 @@ This project focuses on analyzing real-world food delivery market data represent
 
 The analysis combines Python-based exploratory data analysis (EDA) with interactive dashboards built using Power BI, providing both technical depth and business-focused insights.
 
+
+IMPORTANT:- FOR PREPROCESSING IN PYTHON CODE, REFER PDF FILE IN THIS REPSITORY.
+(AS Github DON'T SUPPORT JUPYTER(IPYNB) FILE)
+
+---------------------------------------------------------------
  -----Objectives
 
 Identify food categories with the highest customer ratings
